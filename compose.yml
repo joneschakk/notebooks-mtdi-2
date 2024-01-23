@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    ports:
+      - "10101:8888"
+  jupyter-mtdi:
+    image: "jupyter-octave-rwth-mtdi:latest"

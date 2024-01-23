@@ -1,0 +1,3 @@
+pandas
+villas-dataprocessing>=0.2.6
+villas-node
